@@ -43,7 +43,7 @@ Script em Python para comparar nomes entre duas colunas de uma planilha Excel us
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+git clone [https://github.com/cauau/ia-compadora-nomes]
 cd SEU-REPO
 ```
 
